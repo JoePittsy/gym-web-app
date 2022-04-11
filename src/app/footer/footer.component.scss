@@ -1,0 +1,14 @@
+
+:host {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#buttons {
+    width: 100%;
+}
+
+.selected {
+    border-bottom: solid white 2px;
+}
